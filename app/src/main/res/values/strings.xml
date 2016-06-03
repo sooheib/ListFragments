@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListFragments</string>
+    <string-array name="titles">
+        <item>John Smith</item>
+        <item>BJohn Smith</item>
+        <item>CJohn Smith</item>
+        <item>DJohn Smith</item>
+        <item>EJohn Smith</item>
+        <item>FJohn Smith</item>
+        <item>GJohn Smith</item>
+        <item>HJohn Smith</item>
+        <item>IJohn Smith</item>
+
+    </string-array>
+</resources>
